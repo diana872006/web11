@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafetería Las Horas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Cafetería Las Horas</h1>
+
+    <hr>
+
+    <div class="menu">
+        <div>
+            <a href="pract_lashoras2/carta/lacarta.html">
+                <img src="pract_lashoras2/carta.png" alt="La Carta" width="300" height="200">
+                La Carta
+            </a>
+        </div>
+        <div class="center">
+            <a href="pract_lashoras2/el cale/elcafe.html">
+                <img src="pract_lashoras2/cafe-leche.jpg" alt="El Café" width="300" height="200">
+                El Café
+            </a>
+        </div>
+    </div>
+
+    <div class="contacto">
+        <a>
+            <img src="pract_lashoras2/telefono.jpeg" alt="Contacto" width="300" height="200">
+            Contacto
+        </a>
+    </div>
+
+</body>
+</html>

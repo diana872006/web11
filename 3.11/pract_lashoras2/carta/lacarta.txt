@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Carta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+    <body>
+        <h1>La Carta</h1>
+        <div class="menu">
+            <div class="menu-item">EL « PANIER » CON UN SURTIDO DE BOLLERÍA, MANTEQUILLA Y MERMELADA 3,80 €</div>
+            <div class="menu-item">TARTINES A LA FRANCESA; PAN FRESCO CON MANTEQUILLA Y MERMELADA 2 €</div>
+            <div class="menu-item">NAPOLITANA 1,20 €</div>
+            <div class="menu-item">CROISSANT DE MANTEQUILLA 1 €</div>
+        </div>
+    </body>
+    </html>
+    
+
+
+</body>
+</html>
